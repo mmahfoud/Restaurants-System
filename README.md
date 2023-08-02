@@ -1,4 +1,4 @@
-# Restaurent System
+# Restaurents System
 ## Database
 ## Applications
 ### WebApi
